@@ -1,4 +1,4 @@
-# ASSIGNMENT 1
+# ASSIGNMENT 1 - EC349
 
 # Part 1: "You must split the User Reviews data into a training and a test dataset. The test dataset must contain 10,000 randomly drawn observations using the "caret" package in R.
 
